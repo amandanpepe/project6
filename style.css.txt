@@ -1,0 +1,18 @@
+h1.main { color:red; 
+     text-align:center;
+}
+
+h2 { text-align:center; 
+     text-decoration:underline;
+}
+
+p { color: green;
+    text-font: tahoma;
+}
+
+ul.fruits { font-style:italic;
+}
+
+ol.presidents { font-weight:bold;
+                font-size: 1.6em;
+}
