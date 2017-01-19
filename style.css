@@ -1,4 +1,4 @@
-h1.main { color:red; 
+h1 { color:red; 
      text-align:center;
 }
 
@@ -7,12 +7,12 @@ h2 { text-align:center;
 }
 
 p { color: green;
-    text-font: tahoma;
+    text-font:tahoma;
 }
 
-ul.fruits { font-style:italic;
+ul { font-style:italic;
 }
 
-ol.presidents { font-weight:bold;
+ol { font-weight:bold;
                 font-size: 1.6em;
 }
