@@ -7,12 +7,12 @@ h2 { text-align:center;
 }
 
 p { color: green;
-    text-font:tahoma;
+    font-family:tahoma;
 }
 
 ul { font-style:italic;
 }
 
 ol { font-weight:bold;
-                font-size: 1.6em;
+     font-size: 1.6 em;
 }
